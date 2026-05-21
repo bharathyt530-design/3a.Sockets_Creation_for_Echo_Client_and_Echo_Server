@@ -31,8 +31,11 @@ while True:
 ```
 ## OUPUT
 ### client.py
-<img width="617" height="92" alt="image" src="https://github.com/user-attachments/assets/27c1eb0a-a199-4903-bbe1-97f7a2d3c074" />
+<img width="1456" height="150" alt="image" src="https://github.com/user-attachments/assets/8c6f5694-18d1-4f54-a6e4-0ae0cdbdbcd2" />
+
+
 ### server.py
+
 <img width="1475" height="105" alt="image" src="https://github.com/user-attachments/assets/0d29c487-1d7a-4488-92ef-e3b5b358c883" />
 
 ## RESULT
